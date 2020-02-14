@@ -19,7 +19,7 @@ public class Book {
                 "\nThe price: "+ this.price+
                 "\nQuantity: "+ this.quantity+
                 "\nWritten by: "+this.author.getName()+
-                "\nWritten by: "+this.year;
+                "\nYear: "+this.year;
     }
 
     public String getName() {
